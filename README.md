@@ -3,7 +3,7 @@
   <img src="https://store.squarebitstudios.com/touchpose_logo_dark.svg" alt="TouchPose">
 </picture>   
 
-![Version](https://img.shields.io/badge/version-4.13.5-green?logo=rocket&logoColor=green)
+![Version](https://img.shields.io/badge/version-4.20.3-green?logo=rocket&logoColor=green)
 ![License](https://img.shields.io/badge/License-Proprietary_License-blue)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
